@@ -1,0 +1,7 @@
+{
+  "name": "ItemList",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
